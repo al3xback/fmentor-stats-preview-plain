@@ -19,10 +19,6 @@ img {
 	max-width: 100%;
 }
 
-button {
-	font: inherit;
-}
-
 h1,
 h2 {
 	font-family: 'Inter', sans-serif;
@@ -218,6 +214,7 @@ main > .container {
 
 	.card__title {
 		font-size: 3.6rem;
+		margin-bottom: 2.2rem;
 	}
 
 	.card__desc {
